@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Alt Text](https://github.com/denzyldick/denzyldick/blob/main/readme.gif?raw=true)
+
+
 
 <!--
 **denzyldick/denzyldick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

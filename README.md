@@ -5,8 +5,10 @@ software development career in one or two sentences. _I'm the type of developer 
 
 I say that because, in all these years, I have gained experience developing in different types of stacks and programming languages and diverse kinds of teams.
 
-### Languages
-<img src=https://simpleicons.org/icons/javascript.svg width=20 height=20/> <img src=https://simpleicons.org/icons/php.svg width=20 height=20/> <img src=https://simpleicons.org/icons/go.svg width=20 height=20/>  
+### Languages & tools
+<img src=https://simpleicons.org/icons/javascript.svg width=20 height=20/><img src=https://simpleicons.org/icons/php.svg width=20 height=20/><img src=https://simpleicons.org/icons/go.svg width=20 height=20/><img src=https://simpleicons.org/icons/openjdk.svg width=20 height=20/><img src=https://simpleicons.org/icons/mysql.svg width=20 height=20/><img src=https://simpleicons.org/icons/scala.svg width=20 height=20/><img src=https://simpleicons.org/icons/manjaro.svg width=20 height=20/><img src=https://simpleicons.org/icons/mongodb.svg width=20 height=20/><img src=https://simpleicons.org/icons/docker.svg width=20 height=20/><img src=https://simpleicons.org/icons/neo4j.svg width=20 height=20/>
+ <img src=https://simpleicons.org/icons/redis.svg width=20 height=20/><img src=https://simpleicons.org/icons/linux.svg width=20 height=20/><img src=https://simpleicons.org/icons/vuedotjs.svg width=20 height=20/><img src=https://simpleicons.org/icons/neo4j.svg width=20 height=20/><img src=https://simpleicons.org/icons/rust.svg width=20 height=20/><img src=https://simpleicons.org/icons/nodedotjs.svg width=20 height=20/>**...**   
+
 ### Projectos.
 
 <img align="left" width="100" height="100"  src=https://noterender.com/img/logo.png /> 

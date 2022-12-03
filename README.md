@@ -1,1 +1,22 @@
-![Alt Text](https://github.com/denzyldick/denzyldick/blob/main/readme.gif?raw=true)
+_Hey, bon bini_!
+
+I'm a software developer from the Caribbean( <img src=https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/cw.png width=16 height=16 > <img src=https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/do.png width=16 height=16 >) currently living in The Netherlands<img src=https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/nl.png width=16 height=16 >. If I had to describe my 
+software development career in one or two sentences. _I'm the type of developer that likes to solve problems and likes to think outside of the box_
+
+I say that because, in all these years, I have gained experience developing in different types of stacks and programming languages and diverse kinds of teams.
+
+### Languages
+<img src=https://simpleicons.org/icons/javascript.svg width=20 height=20/> <img src=https://simpleicons.org/icons/php.svg width=20 height=20/> <img src=https://simpleicons.org/icons/go.svg width=20 height=20/>  
+### Projectos.
+
+<img align="left" width="100" height="100"  src=https://noterender.com/img/logo.png /> 
+  
+Noterender is a project I was building, and I still create some templates when I feel the need to be super creative. It's just a visualizer for sound. It was created with <img src=https://simpleicons.org/icons/javascript.svg width=20 height=20/> <img src=https://simpleicons.org/icons/vuedotjs.svg width=20 height=20/> 
+
+**Sneak preview**
+<img src=https://github.com/denzyldick/denzyldick/blob/main/readme.gif  />
+
+# 
+
+_[Noterender](https://noterender.com) is not the only one. If you want to see the rest of my open-source projects, you can see them [here](https://github.com/denzyldick?tab=repositories)_
+

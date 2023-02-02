@@ -12,11 +12,15 @@ I say that because, in all these years, I have gained experience developing in d
 ### Projectos.
 
 <img align="left" width="100" height="100"  src=https://noterender.com/img/logo.png /> 
-  
+
+## Noterender 
+
 [Noterender](https://noterender.com) is a project I was building, and I still create some templates when I feel the need to be super creative. It's just a visualizer for sound. It was created with <img src=https://simpleicons.org/icons/javascript.svg width=20 height=20/> <img src=https://simpleicons.org/icons/vuedotjs.svg width=20 height=20/> 
 
 **Sneak preview**
 <img src=https://github.com/denzyldick/denzyldick/blob/main/readme.gif  />
+
+## Phanalist
 
 [Phanalist](https://github.com/denzyldick/phanalist) a static analyser for PHP for helping PHP developers improving their code.
 

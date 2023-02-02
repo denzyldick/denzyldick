@@ -18,8 +18,8 @@ I say that because, in all these years, I have gained experience developing in d
 **Sneak preview**
 <img src=https://github.com/denzyldick/denzyldick/blob/main/readme.gif  />
 
-# 
+[Phanalist](https://github.com/denzyldick/phanalist) a static analyser for PHP for helping PHP developers improving their code.
 
-_[Noterender](https://noterender.com) is not the only one. If you want to see the rest of my open-source projects, you can see them [here](https://github.com/denzyldick?tab=repositories)_
+<img src="https://github.com/denzyldick/phanalist/raw/main/output.gif">
 
 If you want to get a hold of me, you can do that on my [Linkedin](https://www.linkedin.com/in/denzyldick/). 

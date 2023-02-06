@@ -1,7 +1,7 @@
 **_Hey, bon bini_!**
 
 I'm a software developer from the Caribbean( <img src=https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/cw.png width=16 height=16 > <img src=https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/do.png width=16 height=16 >) currently living in The Netherlands <img src=https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/nl.png width=16 height=16 >. If I had to describe my 
-software development career in one or two sentences. _I'm the type of developer that likes to solve problems and likes to think outside of the box_
+software development career in one or two sentences. _I'm the type of developer that likes to solve problems and likes to think outside of the box._
 
 I say that because, in all these years, I have gained experience developing in different types of stacks and programming languages and diverse kinds of teams.
 

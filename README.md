@@ -11,13 +11,6 @@ I say that because, in all these years, I have gained experience developing in d
 
 ### Projectos.
 
-#### Noterender 
-
-[Noterender](https://denzyl.io) is a project I was building, and I still create some templates when I feel the need to be super creative. It's just a visualizer for sound. It was created with <img src=https://simpleicons.org/icons/javascript.svg width=20 height=20/> <img src=https://simpleicons.org/icons/vuedotjs.svg width=20 height=20/> 
-
-**Sneak preview**
-<img src=https://github.com/denzyldick/denzyldick/blob/main/readme.gif  />
-
 #### Phanalist
 
 [Phanalist](https://github.com/denzyldick/phanalist) is a static analyzer for PHP that helps PHP developers improve their code.
@@ -29,5 +22,12 @@ I say that because, in all these years, I have gained experience developing in d
 
 
 <img src="https://github.com/denzyldick/phanalist/raw/main/output.gif">
+
+#### Noterender 
+
+[Noterender](https://denzyl.io) is a project I was building, and I still create some templates when I feel the need to be super creative. It's just a visualizer for sound. It was created with <img src=https://simpleicons.org/icons/javascript.svg width=20 height=20/> <img src=https://simpleicons.org/icons/vuedotjs.svg width=20 height=20/> 
+
+**Sneak preview**
+<img src=https://github.com/denzyldick/denzyldick/blob/main/readme.gif  />
 
 If you want to get a hold of me, you can do that on my [Linkedin](https://www.linkedin.com/in/denzyldick/). 

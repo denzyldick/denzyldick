@@ -20,7 +20,13 @@ I say that because, in all these years, I have gained experience developing in d
 
 #### Phanalist
 
-[Phanalist](https://github.com/denzyldick/phanalist) a static analyser for PHP for helping PHP developers improving their code.
+[Phanalist](https://github.com/denzyldick/phanalist) is a static analyzer for PHP that helps PHP developers improve their code.
+
+##### Articles
+1. [Write your own static analyzer for PHP.](https://dev.to/denzyldick/the-beginning-of-my-php-static-analyzer-in-rust-5bp8)
+2. [How I made it impossible to write spaghetti code.](https://dev.to/denzyldick/how-i-made-it-impossible-to-write-spaghetti-code-dg4)
+3. [Detecting spaghetti code in AST of a PHP source code.](https://dev.to/denzyldick/traversing-an-ast-of-php-source-code-2kee)
+
 
 <img src="https://github.com/denzyldick/phanalist/raw/main/output.gif">
 

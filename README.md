@@ -21,7 +21,7 @@ I say that because, in all these years, I have gained experience developing in d
 3. [Detecting spaghetti code in AST of a PHP source code.](https://dev.to/denzyldick/traversing-an-ast-of-php-source-code-2kee)
 
 
-<img src="https://github.com/denzyldick/phanalist/raw/main/output.gif">
+<img src="https://github.com/denzyldick/phanalist/raw/main/docs/branding/example.gif">
 
 #### Noterender 
 
